@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DnDToolKit
 build_property.RootNamespace = DnDToolKit
@@ -20,6 +28,26 @@ build_property._RazorSourceGeneratorDebug =
 
 [C:/Users/kaoti/OneDrive/Desktop/Github/DnDToolkit/DnDToolKit/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaoti/OneDrive/Desktop/Github/DnDToolkit/DnDToolKit/Views/Herbs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyYnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaoti/OneDrive/Desktop/Github/DnDToolkit/DnDToolKit/Views/Herbs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyYnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaoti/OneDrive/Desktop/Github/DnDToolkit/DnDToolKit/Views/Herbs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyYnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaoti/OneDrive/Desktop/Github/DnDToolkit/DnDToolKit/Views/Herbs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyYnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaoti/OneDrive/Desktop/Github/DnDToolkit/DnDToolKit/Views/Herbs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyYnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kaoti/OneDrive/Desktop/Github/DnDToolkit/DnDToolKit/Views/Home/Index.cshtml]

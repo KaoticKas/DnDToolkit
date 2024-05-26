@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using DnDToolKit.Models;
 
 namespace DnDToolKit.Data
 {
@@ -9,5 +10,6 @@ namespace DnDToolKit.Data
             : base(options)
         {
         }
+        public DbSet<DnDToolKit.Models.Herb> Herb { get; set; } = default!;
     }
 }

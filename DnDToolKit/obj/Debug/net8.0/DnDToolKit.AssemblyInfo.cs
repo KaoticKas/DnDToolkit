@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DnDToolKit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+092696aa945f8e0f86a6d271b0187ad068960fd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f17e2ecf8328e68550a1d24d500774f18714c812")]
 [assembly: System.Reflection.AssemblyProductAttribute("DnDToolKit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DnDToolKit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
